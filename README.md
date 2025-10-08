@@ -97,8 +97,8 @@ Replace the links with your project repositories or live Play Store links.
 ## Open-source & GitHub stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"></a>
+  <a href="https://github.com/nityamTiwari"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"></a>
+  <a href="https://github.com/nityamTiwari"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"></a>
 </p>
 
 ---
