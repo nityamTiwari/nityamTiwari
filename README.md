@@ -53,8 +53,8 @@
 I build beautiful, performant Android apps with a focus on clean architecture, modern UI with Jetpack Compose, and delightful UX.
 
 - Role: Android Developer
-- Location: (Add your city/country)
-- Email: YOUR_EMAIL
+- Location: Meerut,UttarPradesh (India)
+- Email: nityamtiwari08@gmail.com
 
 ## What I build
 
@@ -107,7 +107,7 @@ Replace the links with your project repositories or live Play Store links.
 
 I'd love to hear about opportunities to collaborate.
 
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- Email: [nityamtiwari08@gmail.com](mailto:nityamtiwari08@gmail.com)
 - LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
 - Twitter: [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)
 - Portfolio: https://YOUR_PORTFOLIO
