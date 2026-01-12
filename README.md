@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/nityamTiwari"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white"></a>
-  <a href="www.linkedin.com/in/nityam-tiwari-042548259"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nityam-tiwari-042548259"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:nityamtiwari08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://nityamtiwari.github.io/Nityam-s_portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-6f42c1?logo=google-chrome&logoColor=white"></a>
 </p>
