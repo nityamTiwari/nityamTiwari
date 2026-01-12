@@ -41,11 +41,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR_PORTFOLIO"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-6f42c1?logo=google-chrome&logoColor=white"></a>
+  <a href="https://github.com/nityamTiwari"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white"></a>
+  <a href="www.linkedin.com/in/nityam-tiwari-042548259"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nityamtiwari08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://https://nityamtiwari.github.io/Nityam-s_portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-6f42c1?logo=google-chrome&logoColor=white"></a>
 </p>
 
 ## 👋 Hello — I'm Nityam
