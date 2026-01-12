@@ -108,19 +108,12 @@ Replace the links with your project repositories or live Play Store links.
 I'd love to hear about opportunities to collaborate.
 
 - Email: [nityamtiwari08@gmail.com](mailto:nityamtiwari08@gmail.com)
-- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- Twitter: [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)
-- Portfolio: https://YOUR_PORTFOLIO
+- LinkedIn: [www.linkedin.com/in/nityam-tiwari-042548259](www.linkedin.com/in/nityam-tiwari-042548259)
+- Portfolio:[https://nityamtiwari.github.io/Nityam-s_portfolio/](https://nityamtiwari.github.io/Nityam-s_portfolio/)
 
 If you'd like a DM on GitHub, open an issue on any of my repos or drop a note via email.
 
 ---
-
-## Personalize this README
-
-1. Replace ALL placeholders (YOUR_GITHUB_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN, YOUR_TWITTER, YOUR_PORTFOLIO) with real values.
-2. Update the "Featured Projects" list with short descriptions and real links.
-3. If you want different animation colors or fonts, edit the SVG at the top.
 
 --
 
